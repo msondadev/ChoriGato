@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 2d5c04e77d4fbf94095aaffa56d39622
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3670064701467795928
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_0
+  - first:
+      213: -7692120545561367584
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_1
+  - first:
+      213: 2764005617986242864
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_2
+  - first:
+      213: 3567746858333980581
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_3
+  - first:
+      213: -2509991701026893290
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_4
+  - first:
+      213: 523299969631473076
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_5
+  - first:
+      213: -6590722943190551578
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_6
+  - first:
+      213: -6767247730112738195
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_7
+  - first:
+      213: -98301577380539198
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_8
+  - first:
+      213: -5044241858164824014
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_9
+  - first:
+      213: 6289793265942913822
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_10
+  - first:
+      213: 1959128318913444135
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_11
+  - first:
+      213: 4329718408452195460
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_12
+  - first:
+      213: 1842497482573491003
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_13
+  - first:
+      213: 7492383627380646112
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_14
+  - first:
+      213: 9192328298085761332
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_15
+  - first:
+      213: 409780883690771452
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_16
+  - first:
+      213: 3534868452454113364
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_17
+  - first:
+      213: -1263341050095466742
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_18
+  - first:
+      213: -2032958257886786950
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_19
+  - first:
+      213: 8551538007316327668
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_20
+  - first:
+      213: 5851436187086531768
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_21
+  - first:
+      213: -6544103973751008174
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_22
+  - first:
+      213: -4187216172591223418
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_23
+  - first:
+      213: 8903782109212169629
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_24
+  - first:
+      213: 5806760308694416817
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_25
+  - first:
+      213: 9123397236018633815
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_26
+  - first:
+      213: 3993327020156274823
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_27
+  - first:
+      213: 1341797385075540068
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_28
+  - first:
+      213: 168159372677765109
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_29
+  - first:
+      213: 5619095153918476859
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_30
+  - first:
+      213: 2530054467680564928
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_31
+  - first:
+      213: -7077895908366658533
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_32
+  - first:
+      213: -8994197252238335595
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_33
+  - first:
+      213: 1538023301700739497
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_34
+  - first:
+      213: 6200401218892087613
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_35
+  - first:
+      213: -654124224393537808
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_36
+  - first:
+      213: 4741675195317274984
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_37
+  - first:
+      213: -6017170033952290311
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_38
+  - first:
+      213: 8003724927686125210
+    second: ChoriGato_Spritesheet-Gato_pedo_sinFondo_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChoriGato_Spritesheet-Gato_pedo_sinFondo_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 305
+        width: 399
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cdba5c271dc9e70800000000000000
+      internalID: 9123397236018633815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Spritesheet-Gato_pedo_sinFondo_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 302
+        width: 545
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f75c1afe0c655200800000000000000
+      internalID: 168159372677765109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Spritesheet-Gato_pedo_sinFondo_31
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 304
+        width: 521
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67d70322f8c1320800000000000000
+      internalID: 2530054467680564928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6deae80ce4bb9f3418e0b69fa966e698
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_0: -3670064701467795928
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_1: -7692120545561367584
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_10: 6289793265942913822
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_11: 1959128318913444135
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_12: 4329718408452195460
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_13: 1842497482573491003
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_14: 7492383627380646112
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_15: 9192328298085761332
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_16: 409780883690771452
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_17: 3534868452454113364
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_18: -1263341050095466742
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_19: -2032958257886786950
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_2: 2764005617986242864
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_20: 8551538007316327668
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_21: 5851436187086531768
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_22: -6544103973751008174
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_23: -4187216172591223418
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_24: 8903782109212169629
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_25: 5806760308694416817
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_26: 9123397236018633815
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_27: 3993327020156274823
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_28: 1341797385075540068
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_29: 168159372677765109
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_3: 3567746858333980581
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_30: 5619095153918476859
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_31: 2530054467680564928
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_32: -7077895908366658533
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_33: -8994197252238335595
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_34: 1538023301700739497
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_35: 6200401218892087613
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_36: -654124224393537808
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_37: 4741675195317274984
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_38: -6017170033952290311
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_39: 8003724927686125210
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_4: -2509991701026893290
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_5: 523299969631473076
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_6: -6590722943190551578
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_7: -6767247730112738195
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_8: -98301577380539198
+      ChoriGato_Spritesheet-Gato_pedo_sinFondo_9: -5044241858164824014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
