@@ -7,6 +7,8 @@ public class PlayerSounds : MonoBehaviour
     public AudioClip jumpClip;
     public AudioClip zarparClip;
 
+    public AudioClip gasearClip;
+
     // Llamar este método desde la animación de caminar
     public void PlayStep()
     {
@@ -23,5 +25,11 @@ public class PlayerSounds : MonoBehaviour
     public void PlayZarpar()
     {
         audioSource.PlayOneShot(zarparClip);
+    }
+
+    public void PlayGasear()
+    {
+        audioSource.Stop();
+        audioSource.PlayOneShot(gasearClip, 1f);
     }
 }

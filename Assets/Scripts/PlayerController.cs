@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public PlayerSounds playerSounds; // referencia al script de sonidos
+    public Animator animator; // referencia al Animator
+    public SpriteRenderer playerSpriteRenderer;
     public float speed = 5f;       // Velocidad horizontal
     public float jumpForce = 7f;   // Fuerza del salto
     private Rigidbody2D rb;
@@ -10,6 +13,7 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
     }
@@ -29,6 +33,21 @@ public class PlayerController : MonoBehaviour
         {
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
+
+        // Zarpar
+        if (Input.GetMouseButtonDown(0)) // 0 = botón izquierdo
+        {
+            playerSounds.PlayZarpar();
+            animator.SetTrigger("Zarpar");
+        }
+
+        // Gasear
+        if (Input.GetMouseButtonDown(1)) // click derecho
+        {
+            playerSounds.PlayGasear();
+            animator.SetTrigger("Gasear");
+        }
+
 
         // Animaciones
         anim.SetFloat("Speed", Mathf.Abs(move));

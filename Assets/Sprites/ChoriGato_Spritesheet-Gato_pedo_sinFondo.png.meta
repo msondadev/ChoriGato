@@ -154,7 +154,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -192,7 +192,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -220,10 +220,10 @@ TextureImporter:
       name: ChoriGato_Spritesheet-Gato_pedo_sinFondo_26
       rect:
         serializedVersion: 2
-        x: 37
-        y: 305
-        width: 399
-        height: 305
+        x: 71
+        y: 481
+        width: 174
+        height: 129
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +242,10 @@ TextureImporter:
       name: ChoriGato_Spritesheet-Gato_pedo_sinFondo_29
       rect:
         serializedVersion: 2
-        x: 443
-        y: 302
-        width: 545
-        height: 314
+        x: 251
+        y: 481
+        width: 196
+        height: 130
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: ChoriGato_Spritesheet-Gato_pedo_sinFondo_31
       rect:
         serializedVersion: 2
-        x: 998
-        y: 304
-        width: 521
-        height: 320
+        x: 455
+        y: 481
+        width: 200
+        height: 130
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
