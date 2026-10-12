@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Suelo
+  - Pescado
+  - Pollito
+  - Leche
+  - Queso
   layers:
   - Default
   - TransparentFX

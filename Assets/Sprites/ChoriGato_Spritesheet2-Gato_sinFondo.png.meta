@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: cba392ff98683304c9397562ed5bc530
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4346988380916746719
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_0
+  - first:
+      213: -6500296374885102494
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_1
+  - first:
+      213: 7588335139273804508
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_2
+  - first:
+      213: -5546171883764354471
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_3
+  - first:
+      213: -67124392608795368
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_4
+  - first:
+      213: -2043990690784007671
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_5
+  - first:
+      213: -5489838241771881134
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_6
+  - first:
+      213: -4490490417464603137
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_7
+  - first:
+      213: -4584837861755481416
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_8
+  - first:
+      213: -2126282529366879079
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_9
+  - first:
+      213: -712291795604147224
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_10
+  - first:
+      213: -8801787724765840460
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_11
+  - first:
+      213: -7465107616790672409
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_12
+  - first:
+      213: 1694791654714598209
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_13
+  - first:
+      213: -4356196804132085405
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_14
+  - first:
+      213: 1309878116609610373
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_15
+  - first:
+      213: -7396831568169161724
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_16
+  - first:
+      213: -7010937084482156638
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_17
+  - first:
+      213: -4764369677172317404
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_18
+  - first:
+      213: 8595590634079546183
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_19
+  - first:
+      213: -4262152085793038643
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_20
+  - first:
+      213: -3385936646576998612
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_21
+  - first:
+      213: -2310959594036596297
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_22
+  - first:
+      213: -8133255506856535787
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_23
+  - first:
+      213: 2864339212793791024
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_24
+  - first:
+      213: -1865093789221283806
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_25
+  - first:
+      213: -4567362340934661839
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_26
+  - first:
+      213: 5750753088118179804
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_27
+  - first:
+      213: 1475130123470825779
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_28
+  - first:
+      213: -7875539501381433146
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_29
+  - first:
+      213: 8746532001783313173
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_30
+  - first:
+      213: 4551806998006390579
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_31
+  - first:
+      213: 2077985040383207615
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_32
+  - first:
+      213: 3949679945352616801
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_33
+  - first:
+      213: -4612210160465821649
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_34
+  - first:
+      213: -3432240200745587962
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_35
+  - first:
+      213: 3746633132338840644
+    second: ChoriGato_Spritesheet2-Gato_sinFondo_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChoriGato_Spritesheet2-Gato_sinFondo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 634
+        width: 155
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f4b059156ca3c0800000000000000
+      internalID: -4346988380916746719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Spritesheet2-Gato_sinFondo_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 633
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cc63813ee4ac5a0800000000000000
+      internalID: -6500296374885102494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Spritesheet2-Gato_sinFondo_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 629
+        width: 156
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda870dba9e2f4960800000000000000
+      internalID: 7588335139273804508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c33235d58fc3a454bbd107778189d7c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChoriGato_Spritesheet2-Gato_sinFondo_0: -4346988380916746719
+      ChoriGato_Spritesheet2-Gato_sinFondo_1: -6500296374885102494
+      ChoriGato_Spritesheet2-Gato_sinFondo_10: -712291795604147224
+      ChoriGato_Spritesheet2-Gato_sinFondo_11: -8801787724765840460
+      ChoriGato_Spritesheet2-Gato_sinFondo_12: -7465107616790672409
+      ChoriGato_Spritesheet2-Gato_sinFondo_13: 1694791654714598209
+      ChoriGato_Spritesheet2-Gato_sinFondo_14: -4356196804132085405
+      ChoriGato_Spritesheet2-Gato_sinFondo_15: 1309878116609610373
+      ChoriGato_Spritesheet2-Gato_sinFondo_16: -7396831568169161724
+      ChoriGato_Spritesheet2-Gato_sinFondo_17: -7010937084482156638
+      ChoriGato_Spritesheet2-Gato_sinFondo_18: -4764369677172317404
+      ChoriGato_Spritesheet2-Gato_sinFondo_19: 8595590634079546183
+      ChoriGato_Spritesheet2-Gato_sinFondo_2: 7588335139273804508
+      ChoriGato_Spritesheet2-Gato_sinFondo_20: -4262152085793038643
+      ChoriGato_Spritesheet2-Gato_sinFondo_21: -3385936646576998612
+      ChoriGato_Spritesheet2-Gato_sinFondo_22: -2310959594036596297
+      ChoriGato_Spritesheet2-Gato_sinFondo_23: -8133255506856535787
+      ChoriGato_Spritesheet2-Gato_sinFondo_24: 2864339212793791024
+      ChoriGato_Spritesheet2-Gato_sinFondo_25: -1865093789221283806
+      ChoriGato_Spritesheet2-Gato_sinFondo_26: -4567362340934661839
+      ChoriGato_Spritesheet2-Gato_sinFondo_27: 5750753088118179804
+      ChoriGato_Spritesheet2-Gato_sinFondo_28: 1475130123470825779
+      ChoriGato_Spritesheet2-Gato_sinFondo_29: -7875539501381433146
+      ChoriGato_Spritesheet2-Gato_sinFondo_3: -5546171883764354471
+      ChoriGato_Spritesheet2-Gato_sinFondo_30: 8746532001783313173
+      ChoriGato_Spritesheet2-Gato_sinFondo_31: 4551806998006390579
+      ChoriGato_Spritesheet2-Gato_sinFondo_32: 2077985040383207615
+      ChoriGato_Spritesheet2-Gato_sinFondo_33: 3949679945352616801
+      ChoriGato_Spritesheet2-Gato_sinFondo_34: -4612210160465821649
+      ChoriGato_Spritesheet2-Gato_sinFondo_35: -3432240200745587962
+      ChoriGato_Spritesheet2-Gato_sinFondo_36: 3746633132338840644
+      ChoriGato_Spritesheet2-Gato_sinFondo_4: -67124392608795368
+      ChoriGato_Spritesheet2-Gato_sinFondo_5: -2043990690784007671
+      ChoriGato_Spritesheet2-Gato_sinFondo_6: -5489838241771881134
+      ChoriGato_Spritesheet2-Gato_sinFondo_7: -4490490417464603137
+      ChoriGato_Spritesheet2-Gato_sinFondo_8: -4584837861755481416
+      ChoriGato_Spritesheet2-Gato_sinFondo_9: -2126282529366879079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

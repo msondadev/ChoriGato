@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7a877a2e8ad3b724392947babdca4134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2967579184616405267
+    second: ChoriGato_Escenario_kitInterior_0
+  - first:
+      213: -8241441543463869119
+    second: ChoriGato_Escenario_kitInterior_1
+  - first:
+      213: 2503208901017321934
+    second: ChoriGato_Escenario_kitInterior_2
+  - first:
+      213: -1021542990921101941
+    second: ChoriGato_Escenario_kitInterior_3
+  - first:
+      213: 1113742149902960177
+    second: ChoriGato_Escenario_kitInterior_4
+  - first:
+      213: 3349358739900075300
+    second: ChoriGato_Escenario_kitInterior_5
+  - first:
+      213: -893981909111841115
+    second: ChoriGato_Escenario_kitInterior_6
+  - first:
+      213: -6398214179219967321
+    second: ChoriGato_Escenario_kitInterior_7
+  - first:
+      213: -4423070168537365893
+    second: ChoriGato_Escenario_kitInterior_8
+  - first:
+      213: 2746084092033030941
+    second: ChoriGato_Escenario_kitInterior_9
+  - first:
+      213: -8323192137864074483
+    second: ChoriGato_Escenario_kitInterior_10
+  - first:
+      213: -8594203115207805988
+    second: ChoriGato_Escenario_kitInterior_11
+  - first:
+      213: -1580452714436958898
+    second: ChoriGato_Escenario_kitInterior_12
+  - first:
+      213: -6715740456950398524
+    second: ChoriGato_Escenario_kitInterior_13
+  - first:
+      213: -230717856385228527
+    second: ChoriGato_Escenario_kitInterior_14
+  - first:
+      213: -6990152412513934998
+    second: ChoriGato_Escenario_kitInterior_15
+  - first:
+      213: 6912233006542367785
+    second: ChoriGato_Escenario_kitInterior_16
+  - first:
+      213: -1395986275602319966
+    second: ChoriGato_Escenario_kitInterior_17
+  - first:
+      213: -1265960352294457263
+    second: ChoriGato_Escenario_kitInterior_18
+  - first:
+      213: -8741834203013537296
+    second: ChoriGato_Escenario_kitInterior_19
+  - first:
+      213: 1424145604752372379
+    second: ChoriGato_Escenario_kitInterior_20
+  - first:
+      213: -7896869030314241982
+    second: ChoriGato_Escenario_kitInterior_21
+  - first:
+      213: -6804018996547814582
+    second: ChoriGato_Escenario_kitInterior_22
+  - first:
+      213: -8267061724596683047
+    second: ChoriGato_Escenario_kitInterior_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 1157
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6881a547a01d6d0800000000000000
+      internalID: -2967579184616405267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_1
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 863
+        width: 143
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14560bcc49480ad80800000000000000
+      internalID: -8241441543463869119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_2
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 853
+        width: 205
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1cbbf9b3f2db220800000000000000
+      internalID: 2503208901017321934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 593
+        width: 1511
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d8b57ef00c2d1f0800000000000000
+      internalID: -1021542990921101941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 839
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368850a59ec47f00800000000000000
+      internalID: 1113742149902960177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_5
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 833
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d081d37005b7e20800000000000000
+      internalID: 3349358739900075300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 356
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae53cfa030f793f0800000000000000
+      internalID: -893981909111841115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 425
+        width: 295
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2f9ba6a1af437a0800000000000000
+      internalID: -6398214179219967321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 632
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7204bbbd191e92c0800000000000000
+      internalID: -4423070168537365893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 625
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bdafcaeec0c1620800000000000000
+      internalID: 2746084092033030941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_10
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 615
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ba94949d41e7c80800000000000000
+      internalID: -8323192137864074483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_11
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 539
+        width: 171
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3bb7efcc14bb880800000000000000
+      internalID: -8594203115207805988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_12
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 423
+        width: 234
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45eeab31aa111ae0800000000000000
+      internalID: -1580452714436958898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_13
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 577
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c180cbc2a5ecc2a0800000000000000
+      internalID: -6715740456950398524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_14
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 446
+        width: 126
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111a1def4535cccf0800000000000000
+      internalID: -230717856385228527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_15
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 431
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61644e8a6dfdfe90800000000000000
+      internalID: -6990152412513934998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_16
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 435
+        width: 150
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c20bffb4f2def50800000000000000
+      internalID: 6912233006542367785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1375
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5376be0e570ace0800000000000000
+      internalID: -1395986275602319966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_18
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 450
+        width: 179
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150b2c554c76e6ee0800000000000000
+      internalID: -1265960352294457263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_19
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 221
+        width: 139
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a40ccb14cea680800000000000000
+      internalID: -8741834203013537296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_20
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 43
+        width: 76
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f2bfc1e493c310800000000000000
+      internalID: 1424145604752372379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_21
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 43
+        width: 494
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2401652d47fa86290800000000000000
+      internalID: -7896869030314241982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_22
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 75
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bf1c995c44391a0800000000000000
+      internalID: -6804018996547814582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoriGato_Escenario_kitInterior_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 21
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debf29892f754d80800000000000000
+      internalID: -8267061724596683047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChoriGato_Escenario_kitInterior_0: -2967579184616405267
+      ChoriGato_Escenario_kitInterior_1: -8241441543463869119
+      ChoriGato_Escenario_kitInterior_10: -8323192137864074483
+      ChoriGato_Escenario_kitInterior_11: -8594203115207805988
+      ChoriGato_Escenario_kitInterior_12: -1580452714436958898
+      ChoriGato_Escenario_kitInterior_13: -6715740456950398524
+      ChoriGato_Escenario_kitInterior_14: -230717856385228527
+      ChoriGato_Escenario_kitInterior_15: -6990152412513934998
+      ChoriGato_Escenario_kitInterior_16: 6912233006542367785
+      ChoriGato_Escenario_kitInterior_17: -1395986275602319966
+      ChoriGato_Escenario_kitInterior_18: -1265960352294457263
+      ChoriGato_Escenario_kitInterior_19: -8741834203013537296
+      ChoriGato_Escenario_kitInterior_2: 2503208901017321934
+      ChoriGato_Escenario_kitInterior_20: 1424145604752372379
+      ChoriGato_Escenario_kitInterior_21: -7896869030314241982
+      ChoriGato_Escenario_kitInterior_22: -6804018996547814582
+      ChoriGato_Escenario_kitInterior_23: -8267061724596683047
+      ChoriGato_Escenario_kitInterior_3: -1021542990921101941
+      ChoriGato_Escenario_kitInterior_4: 1113742149902960177
+      ChoriGato_Escenario_kitInterior_5: 3349358739900075300
+      ChoriGato_Escenario_kitInterior_6: -893981909111841115
+      ChoriGato_Escenario_kitInterior_7: -6398214179219967321
+      ChoriGato_Escenario_kitInterior_8: -4423070168537365893
+      ChoriGato_Escenario_kitInterior_9: 2746084092033030941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

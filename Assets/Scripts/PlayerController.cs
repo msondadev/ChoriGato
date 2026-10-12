@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem.HID;
 
 public class PlayerController : MonoBehaviour
 {
@@ -10,12 +11,18 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator anim;
     private bool isGrounded;
+    private int vidas = 0;
+    private int puntos = 0;
+    public HUDController hud;
+    public int puntosPorVida = 50; // Tope de puntos
+
 
     void Start()
     {
 
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        hud.ActualizarVidas(vidas);
     }
 
     void Update()
@@ -70,4 +77,58 @@ public class PlayerController : MonoBehaviour
             isGrounded = false;
         }
     }
+
+    // Objetos recolectables [Pescado - Pollito - Leche - Queso]
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Pescado"))
+        {
+            Destroy(collision.gameObject);
+            puntos += 15;
+            RevisarVidas();
+            hud.ActualizarPuntos(puntos);
+            playerSounds.PlayRecolectable();
+        }
+
+        if (collision.CompareTag("Pollito"))
+        {
+            Destroy(collision.gameObject);
+            puntos += 20; // ejemplo: pollito da más puntos
+            RevisarVidas();
+            hud.ActualizarPuntos(puntos);
+            playerSounds.PlayRecolectable();
+        }
+
+        if (collision.CompareTag("Leche"))
+        {
+            Destroy(collision.gameObject);
+            puntos += 10;
+            RevisarVidas();
+            hud.ActualizarPuntos(puntos);
+            playerSounds.PlayRecolectable();
+        }
+
+        if (collision.CompareTag("Queso"))
+        {
+            Destroy(collision.gameObject);
+            puntos += 25;
+            RevisarVidas();
+            hud.ActualizarPuntos(puntos);
+            playerSounds.PlayRecolectable();
+        }
+    }
+
+    private void RevisarVidas()
+    {
+        // Calcula cuántas vidas corresponden según puntos acumulados
+        int nuevasVidas = puntos / puntosPorVida;
+
+        if (nuevasVidas > vidas)
+        {
+            vidas = nuevasVidas;
+            hud.ActualizarVidas(vidas);
+            playerSounds.PlayVida();
+        }
+    }
+
 }

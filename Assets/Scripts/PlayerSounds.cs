@@ -6,8 +6,9 @@ public class PlayerSounds : MonoBehaviour
     public AudioClip stepClip;
     public AudioClip jumpClip;
     public AudioClip zarparClip;
-
     public AudioClip gasearClip;
+    public AudioClip sonidoRecolectable;
+    public AudioClip sonidoVida;
 
     // Llamar este método desde la animación de caminar
     public void PlayStep()
@@ -31,5 +32,15 @@ public class PlayerSounds : MonoBehaviour
     {
         audioSource.Stop();
         audioSource.PlayOneShot(gasearClip, 1f);
+    }
+
+    public void PlayRecolectable() 
+    {
+        audioSource.PlayOneShot(sonidoRecolectable);
+    }
+
+    public void PlayVida()
+    {
+        audioSource.PlayOneShot(sonidoVida);
     }
 }
