@@ -10,6 +10,7 @@ TagManager:
   - Leche
   - Queso
   - Enemigo
+  - Salida
   layers:
   - Default
   - TransparentFX

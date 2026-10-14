@@ -20,6 +20,13 @@ public class PlayerController : MonoBehaviour
     public GameObject textoGameOver;
     private bool gameOver = false;
 
+    public GameObject puertaPrefab; 
+
+    public Transform puntoSalida;
+
+    private bool puertaGenerada = false;
+    public GameObject textoVictoria;
+
     void Start()
     {
 
@@ -99,6 +106,7 @@ public class PlayerController : MonoBehaviour
             Destroy(collision.gameObject);
             puntos += 15;
             RevisarVidas();
+            RevisarVictoria();
             hud.ActualizarPuntos(puntos);
             playerSounds.PlayRecolectable();
         }
@@ -108,6 +116,7 @@ public class PlayerController : MonoBehaviour
             Destroy(collision.gameObject);
             puntos += 20; // ejemplo: pollito da más puntos
             RevisarVidas();
+            RevisarVictoria();
             hud.ActualizarPuntos(puntos);
             playerSounds.PlayRecolectable();
         }
@@ -117,6 +126,7 @@ public class PlayerController : MonoBehaviour
             Destroy(collision.gameObject);
             puntos += 10;
             RevisarVidas();
+            RevisarVictoria();
             hud.ActualizarPuntos(puntos);
             playerSounds.PlayRecolectable();
         }
@@ -126,8 +136,17 @@ public class PlayerController : MonoBehaviour
             Destroy(collision.gameObject);
             puntos += 25;
             RevisarVidas();
+            RevisarVictoria();
             hud.ActualizarPuntos(puntos);
             playerSounds.PlayRecolectable();
+        }
+
+        if (collision.CompareTag("Salida"))
+        {
+            gameOver = true;
+            textoVictoria.SetActive(true);
+            Time.timeScale = 0f;
+            Debug.Log("GANASTE");
         }
 
         Enemy enemy = collision.GetComponent<Enemy>();
@@ -176,9 +195,19 @@ public class PlayerController : MonoBehaviour
         Time.timeScale = 0f;
     }
 
+    private void RevisarVictoria()
+    {
+        if (puntos >= 10 && !puertaGenerada)
+        {
+            Instantiate(
+                puertaPrefab,
+                puntoSalida.position,
+                Quaternion.identity
+            );
 
-
-
+            puertaGenerada = true;
+        }
+    }
 
 
 }
