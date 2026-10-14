@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
     public HUDController hud;
     public int puntosPorVida = 50; // Tope de puntos
 
+    public GameObject textoGameOver;
 
     void Start()
     {
@@ -116,6 +117,12 @@ public class PlayerController : MonoBehaviour
             hud.ActualizarPuntos(puntos);
             playerSounds.PlayRecolectable();
         }
+
+        Enemy enemy = collision.GetComponent<Enemy>();
+        if (enemy != null)
+        {
+            enemy.Atacar(this);
+        }
     }
 
     private void RevisarVidas()
@@ -129,6 +136,24 @@ public class PlayerController : MonoBehaviour
             hud.ActualizarVidas(vidas);
             playerSounds.PlayVida();
         }
+    }
+
+    public void RecibirDaño(int cantidad)
+    {
+        vidas = Mathf.Max(vidas - cantidad, 0);
+        hud.ActualizarVidas(vidas);
+        //playerSounds.PlayAccion(); // sonido de daño
+
+        if (vidas <= 0)
+        {
+            GameOver();
+        }
+    }
+
+    private void GameOver()
+    {
+        textoGameOver.SetActive(true);
+        Time.timeScale = 0f; // pausa el juego
     }
 
 }

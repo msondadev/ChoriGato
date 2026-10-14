@@ -9,6 +9,7 @@ TagManager:
   - Pollito
   - Leche
   - Queso
+  - Enemigo
   layers:
   - Default
   - TransparentFX
