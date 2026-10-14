@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem.HID;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -15,8 +16,9 @@ public class PlayerController : MonoBehaviour
     private int puntos = 0;
     public HUDController hud;
     public int puntosPorVida = 50; // Tope de puntos
-
+    public AudioSource musicaFondo;
     public GameObject textoGameOver;
+    private bool gameOver = false;
 
     void Start()
     {
@@ -54,6 +56,16 @@ public class PlayerController : MonoBehaviour
         {
             playerSounds.PlayGasear();
             animator.SetTrigger("Gasear");
+        }
+
+        // Pulsa R para reiniciar el juego
+        if (gameOver && Input.GetKeyDown(KeyCode.R))
+        {
+            Time.timeScale = 1f;
+
+            SceneManager.LoadScene(
+                SceneManager.GetActiveScene().buildIndex
+            );
         }
 
 
@@ -152,8 +164,21 @@ public class PlayerController : MonoBehaviour
 
     private void GameOver()
     {
+        gameOver = true;
+        musicaFondo.Stop();
         textoGameOver.SetActive(true);
-        Time.timeScale = 0f; // pausa el juego
+        playerSounds.PlayGameOver();
+        Invoke("PausarJuego", 1f);
     }
+
+    private void PausarJuego()
+    {
+        Time.timeScale = 0f;
+    }
+
+
+
+
+
 
 }
